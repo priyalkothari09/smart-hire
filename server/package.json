@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@google/genai": "^2.9.0",
     "@pinecone-database/pinecone": "^7.2.0",
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.6",
@@ -21,8 +22,8 @@
     "langchain": "^1.4.0",
     "mongoose": "^9.6.2",
     "multer": "^2.1.1",
-    "openai": "^6.38.0",
-    "pdf-parse": "^2.4.5"
+    "openai": "^6.39.0",
+    "pdf2json": "^4.0.3"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
